@@ -67,7 +67,7 @@
 
       Aquí puedes encontrar algunos cuadros de mando realizados con bases de datos públicas en Power BI
 
-      <img src="C:/Users/Willi/Dropbox/0_Data Science/Github/Portafolio/williamsanz.github.io-master/images/powerbi.png"/>
+      <img src="images/powerbi.PNG?raw=true"/>
 
       *Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
 
