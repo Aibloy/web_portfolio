@@ -7,7 +7,7 @@
 
 ---
 
-  ##                        Portfolio
+  ##                       Portfolio
 
   - Portafolio que contiene una serie de projectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
 
