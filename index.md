@@ -47,7 +47,7 @@
 
       - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
 
-        <img src="images/FN.png?raw=true"/>
+        <img src="images/FN.PNG?raw=true"/>
 
       - [Twitter MBTI](Link): Análisis del lenguaje usado en Tweets para clasificar la personalidad 
 
