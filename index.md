@@ -5,7 +5,7 @@
 - **Librerias:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Keras, Spacy...
 - **Idiomas:** Español, Inglés
 
---
+---
 
   ##                        Portfolio
 
