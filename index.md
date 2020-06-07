@@ -32,9 +32,9 @@
         
        - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
         
-        <img src="images/DT.png?raw=true"/>
+       <img src="images/DT.png?raw=true"/>
         
-    - UNSUPERVISED
+    - UNSUPERVISED:
      - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20An%C3%A1lisis%20Factorial%20.ipynb):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
       
           <img src="images/AF.PNG?raw=true"/>
@@ -43,7 +43,8 @@
       
           <img src="images/KM.png?raw=true"/>
 
-    - ### Natural Language Processing
+
+- ### Natural Language Processing
 
      - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
 
