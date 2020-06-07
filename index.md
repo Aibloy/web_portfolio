@@ -5,7 +5,7 @@
 - **Librerias:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Keras, Spacy...
 - **Idiomas:** Español, Inglés
 
----
+--
 
   ##                        Portfolio
 
@@ -13,11 +13,11 @@
 
     - ### Data Analysis and Visualization
 
-      - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**. Predicción de Supervivientes 
+     - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**. Predicción de Supervivientes 
 
       <img src="images/titanic.png?raw=true"/>
   
-      - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una encuesta realizada a adolescentes con cientos de variables, incluyendo análisis exploratorio, diferencias de género y predicción de nivel de felicidad usando regresión logística. 
+     - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una encuesta realizada a adolescentes con cientos de variables, incluyendo análisis exploratorio, diferencias de género y predicción de nivel de felicidad usando regresión logística. 
   
       <img src="images/young_people_diferencias.png?raw=true"/>
   
@@ -25,43 +25,43 @@
   
     - ### Machine Learning
   
-      - SUPERVISED: 
-        - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
+     - SUPERVISED: 
+      - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
         
         <img src="images/rrhh.PNG?raw=true"/>
         
-        - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
+       - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
         
         <img src="images/DT.png?raw=true"/>
         
     - UNSUPERVISED
-        - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20An%C3%A1lisis%20Factorial%20.ipynb):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
+     - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20An%C3%A1lisis%20Factorial%20.ipynb):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
       
           <img src="images/AF.PNG?raw=true"/>
       
-        - [Segmentación de clientes](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Segmentaci%C3%B3n%20de%20compradores.ipynb): Clusterización de clientes mediante **K-Means**
+     - [Segmentación de clientes](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Segmentaci%C3%B3n%20de%20compradores.ipynb): Clusterización de clientes mediante **K-Means**
       
           <img src="images/KM.png?raw=true"/>
 
     - ### Natural Language Processing
 
-      - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
+     - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
 
         <img src="images/FN.PNG?raw=true"/>
 
-      - [Twitter MBTI](Link): Análisis del lenguaje usado en Tweets para clasificar la personalidad 
+     - [Twitter MBTI](Link): Análisis del lenguaje usado en Tweets para clasificar la personalidad 
 
     - ### Deep Learning
 
-      - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
+     - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
 
         <img src="images/CN.png?raw=true"/>
 
-      - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
+     - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
 
     - ### Inteligencia Artificial
 
-      - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
+     - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
   
     - ### Cuadros de Mando (Power BI): 
 
@@ -71,17 +71,17 @@
 
       *Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
 
-      - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
+     - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
       - [Datos Demográficos](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Demogr%C3%A1fico.pdf): Datos mundiales de esperanza de vida, mortalidad infantil...
       - [RRHH](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20rrhh.pdf): Ejemplo de cuadro de mando para un departamento de RRHH
 
     - ### Otros
 
-      - [Ejercicios](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Ejercicios%20de%20Python.ipynb): Ejercicios básicos de programación en Python 
+     - [Ejercicios](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Ejercicios%20de%20Python.ipynb): Ejercicios básicos de programación en Python 
 
     - ### Projectos
 
-      - [TFG](https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf): Projecto de fin de grado
+     - [TFG](https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf): Projecto de fin de grado
 
         Análisis de datos con R: 
 
