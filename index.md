@@ -13,11 +13,11 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
 - ### Data Analysis and Visualization
 
-     - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**. Predicción de Supervivientes 
+    - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**. Predicción de Supervivientes 
 
       <img src="images/titanic.png?raw=true"/>
   
-     - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una encuesta realizada a adolescentes con cientos de variables, incluyendo análisis exploratorio, diferencias de género y predicción de nivel de felicidad usando regresión logística. 
+    - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20diferencias%20g%C3%A9nero%20.ipynb):  Análisis completo de una encuesta realizada a adolescentes con cientos de variables, incluyendo análisis exploratorio, diferencias de género y predicción de nivel de felicidad usando regresión logística. 
   
       <img src="images/young_people_diferencias.png?raw=true"/>
   
@@ -25,12 +25,12 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
   
     - ### Machine Learning
   
-     - SUPERVISED: 
-      - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
+  - SUPERVISED: 
+   - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
         
-        <img src="images/rrhh.PNG?raw=true"/>
+       <img src="images/rrhh.PNG?raw=true"/>
         
-       - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
+   - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
         
        <img src="images/DT.png?raw=true"/>
         
@@ -92,7 +92,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
         
   
-      - [TFM](Link): Projecto de fin de máster
+     - [TFM](Link): Projecto de fin de máster
   
         Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
   
