@@ -9,9 +9,9 @@
 
   ##                       Portfolio
 
-  - Portafolio que contiene una serie de projectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
+Portafolio que contiene una serie de projectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
 
-    - ### Data Analysis and Visualization
+- ### Data Analysis and Visualization
 
      - [Titanic](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Titanic.ipynb): Análisis exploratorio de los pasajeros a bordo del Titanic usando **Pandas** y **Seaborn**. Predicción de Supervivientes 
 
