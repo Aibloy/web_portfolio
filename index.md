@@ -1,12 +1,11 @@
 ---
-<img src="images/dummy_thumbnail.png?raw=true"/>
-
 ### Skills
 
 - **Programming:** Python, R, Spark, SQL, Power BI, Tableau, Excel
 - **Modelos:** Machine Learning (RF, K-Means, SVM, PCA...), Deep Learning, Natural Language Processing
 - **Librerias:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Keras, Spacy...
 - **Idiomas:** Español, Inglés
+---
 
 ##                        Portfolio
 
