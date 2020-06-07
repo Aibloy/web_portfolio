@@ -1,4 +1,3 @@
----
 ### Skills
 
 - **Programming:** Python, R, Spark, SQL, Power BI, Tableau, Excel
@@ -28,7 +27,7 @@
     - SUPERVISED: 
       - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
       
-      <img src="images/rrhh.png?raw=true"/>
+      <img src="images/rrhh.PNG?raw=true"/>
       
       - [Decision Trees](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Iris.ipynb): Clasificación de plantas - Iris dataset
       
@@ -37,7 +36,7 @@
     - UNSUPERVISED
       - [Young People Survey](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Young%20People%20Survey%20-%20An%C3%A1lisis%20Factorial%20.ipynb):  Clusterización  de hábitos y personalidad de adolescentes mediante **Análisis factorial**
       
-        <img src="images/AF.png?raw=true"/>
+        <img src="images/AF.PNG?raw=true"/>
       
       - [Segmentación de clientes](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Segmentaci%C3%B3n%20de%20compradores.ipynb): Clusterización de clientes mediante **K-Means**
       
