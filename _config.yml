@@ -1,11 +1,12 @@
 title: William Sanz # your name (or website title) here
 logo: "/images/Foto_cv.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-Si te gusta lo que ves, deseas hablar conmigo sobre el portafolio, 
-oportunidades de trabajo o colaboración, 
-puedes contactar conmigo en mi correo personal: williamvivanco@hotmail.es
-
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Si te gusta lo que ves, deseas contactar conmigo por el portafolio, oportunidades de trabajo o colaboración: 
+  <br><br>
+  williamvivanco@hotmail.es 
+  
+  <br><br>
+  <a href="https://www.linkedin.com/in/williamsanzvivanco/">Linkedin</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
