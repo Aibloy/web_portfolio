@@ -105,4 +105,4 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
     Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
 
-    Modelo único entrenado con cientos de miles de Tweets en Español.    (En proceso)
+    Modelo único entrenado con millones de textos.    (En proceso)
