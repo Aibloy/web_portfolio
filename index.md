@@ -37,7 +37,7 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
 - ### Machine Learning
 
-  - SUPERVISED: 
+- SUPERVISED: 
     - [HR Analytics](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/HR%20ANALYTICS%20.ipynb): Predicción de rotación laboral de empleados mediante datos de RRHH
     
     <img src="images/rrhh.PNG?raw=true"/>
