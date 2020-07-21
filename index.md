@@ -21,7 +21,43 @@
 
 ###                        Portfolio
 
-Portafolio que contiene una serie de projectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
+Portafolio que contiene una serie de proyectos personales realizados con fines académicos, de autoaprendizaje and just for fun ;) 
+
+
+- ## Proyectos
+
+  - [TFG](https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf): Proyecto de fin de grado
+
+    Análisis de datos con R: 
+
+    Clusterización de usuarios de una web de citas:  68.731 usuarios y 2621 variables 
+
+    <img src="images/TFG.PNG?raw=true"/>
+
+    
+
+  - [TFM](Link): Proyecto de fin de máster
+
+    Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
+
+    Modelo único entrenado con millones de textos.    (En proceso)
+    
+- ## Micro-proyectos (Notebooks):    
+
+- ### Natural Language Processing
+
+  - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
+
+    <img src="images/FN.PNG?raw=true"/>
+
+- ### Deep Learning
+
+  - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
+
+    <img src="images/CN.png?raw=true"/>
+
+  - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
+
 
 - ### Data Analysis and Visualization
 
@@ -33,7 +69,17 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
 
   <img src="images/young_people_diferencias.png?raw=true"/>
 
-  
+- ### Cuadros de Mando (Power BI): 
+
+  Aquí puedes encontrar algunos cuadros de mando realizados con bases de datos públicas en Power BI
+
+  <img src="images/powerbi.PNG?raw=true"/>
+
+  *Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
+
+  - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
+  - [Datos Demográficos](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Demogr%C3%A1fico.pdf): Datos mundiales de esperanza de vida, mortalidad infantil...
+  - [RRHH](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20rrhh.pdf): Ejemplo de cuadro de mando para un departamento de RRHH
 
 - ### Machine Learning
 
@@ -55,54 +101,15 @@ Portafolio que contiene una serie de projectos personales realizados con fines a
     
       <img src="images/KM.png?raw=true"/>
 
-- ### Natural Language Processing
-
-  - [Fake News](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Fake%20News.ipynb): Detección de noticias falsas mediante análisis del lenguaje. 
-
-    <img src="images/FN.PNG?raw=true"/>
-
-- ### Deep Learning
-
-  - [¿Gato o Perro?](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Gato%20o%20Perro.ipynb): **Redes neuronales de convolución** para clasificación de imagenes
-
-    <img src="images/CN.png?raw=true"/>
-
-  - [Perceptrón a mano](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Perceptr%C3%B3n%20from%20scratch.ipynb): Programación de un Perceptrón desde 0 para entender mejor su funcionamiento interno. 
 
 - ### Inteligencia Artificial
 
   - [Muestreo Thompson](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Muestreo%20Thompson.ipynb): Optimización de beneficios mediante selección de anuncios para campaña de Marketing 
 
-- ### Cuadros de Mando (Power BI): 
 
-  Aquí puedes encontrar algunos cuadros de mando realizados con bases de datos públicas en Power BI
-
-  <img src="images/powerbi.PNG?raw=true"/>
-
-  *Adjunto el pdf aunque puedes solicitarme el .pbix original a mi correo.
-
-  - [Reporte de Ventas](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Ventas.pdf): Cuadro de mando con histórico de la industria de videojuegos 
-  - [Datos Demográficos](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20Demogr%C3%A1fico.pdf): Datos mundiales de esperanza de vida, mortalidad infantil...
-  - [RRHH](https://github.com/Aibloy/Portafolio/blob/master/Dashboard%20rrhh.pdf): Ejemplo de cuadro de mando para un departamento de RRHH
 
 - ### Otros
 
   - [Ejercicios](https://nbviewer.jupyter.org/github/Aibloy/Portafolio/blob/master/Ejercicios%20de%20Python.ipynb): Ejercicios básicos de programación en Python 
 
-- ### Projectos
 
-  - [TFG](https://github.com/Aibloy/Portafolio/blob/master/TFG%20-%20An%C3%A1lisis%20de%20datos%20con%20R.pdf): Projecto de fin de grado
-
-    Análisis de datos con R: 
-
-    Clusterización de usuarios de una web de citas:  68.731 usuarios y 2621 variables 
-
-    <img src="images/TFG.PNG?raw=true"/>
-
-    
-
-  - [TFM](Link): Projecto de fin de máster
-
-    Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
-
-    Modelo único entrenado con millones de textos.    (En proceso)
