@@ -14,7 +14,7 @@
 
 - **Programming:** Python, R, PySpark, SQL, Power BI, Tableau, Excel
 - **Modelos:** Machine Learning (RF, K-Means, SVM, PCA...), Deep Learning, Natural Language Processing
-- **Librerias:** Pandas, NumPy, re, Scikit-Learn, Matplotlib, Seaborn, Tensorflow, Keras, Spacy, nltk...
+- **Librerias:** Pandas, NumPy, re, Scikit-Learn, Matplotlib, Seaborn, Altair, Tensorflow, Keras, Spacy, nltk...
 - **Idiomas:** Español, Inglés
 
 ---
