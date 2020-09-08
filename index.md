@@ -38,8 +38,7 @@ Portafolio que contiene una serie de proyectos personales realizados con fines a
 
   - [TFM](Link): Proyecto de fin de máster
 
-    Creación de una libreria que analice la personalidad mediante procesamiento del lenguaje natural. 
-
+    Predicción de la personalidad mediante análisis del lenguaje 
     Modelo único entrenado con millones de textos.    (En proceso)
     
 - ## Micro-proyectos (Notebooks):    
