@@ -36,10 +36,12 @@ Portafolio que contiene una serie de proyectos personales realizados con fines a
 
     
 
-  - [TFM](Link): Proyecto de fin de máster
+  - [TFM](https://github.com/Aibloy/tfm_kschool): Proyecto de fin de máster
 
     Predicción de la personalidad mediante análisis del lenguaje 
-    Modelo único entrenado con millones de textos.    (En proceso)
+    Modelo único entrenado con millones de textos.   
+    
+    <img src="images/tfm.JPG?raw=true"/>
     
 - ## Micro-proyectos (Notebooks):    
 
