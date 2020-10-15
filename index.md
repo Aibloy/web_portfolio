@@ -44,7 +44,7 @@ Portafolio que contiene una serie de proyectos personales realizados con fines a
     <img src="images/tfm.JPG?raw=true"/>
     
     
-  - [DeepPeople](https://deep-people.herokuapp.com/): App entrenada mediante mediante redes neuronales que puede detectar genero,edad y expresión facial de una persona
+  - [DeepPeople](https://deep-people.herokuapp.com/): App entrenada  mediante redes neuronales que puede detectar genero,edad y expresión facial de una persona
 
    
     
