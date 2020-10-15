@@ -46,7 +46,7 @@ Portafolio que contiene una serie de proyectos personales realizados con fines a
     
   - [DeepPeople](https://deep-people-aibloy.herokuapp.com/): App entrenada  mediante redes neuronales que puede detectar genero,edad y expresión facial de una persona
 
-   
+   <img src="images/DeepPeople.JPG?raw=true"/>
     
 - ## Micro-proyectos (Notebooks):    
 
