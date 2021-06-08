@@ -12,7 +12,7 @@
 
 ### Skills
 
-- **Programming:** Python, R, PySpark, SQL, Power BI, Tableau, Excel
+- **Programming:** Python, R, PySpark, SQL, Power BI (Power Query, DAX), Tableau, Excel, Power Platform
 - **Modelos:** Machine Learning (RF, K-Means, SVM, PCA...), Deep Learning, Natural Language Processing
 - **Librerias:** Pandas, NumPy, re, Scikit-Learn, Matplotlib, Seaborn, Altair, Tensorflow, Keras, Spacy, nltk...
 - **Idiomas:** Español, Inglés
