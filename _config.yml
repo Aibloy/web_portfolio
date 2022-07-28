@@ -5,7 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Contacto: williamvivanco@hotmail.es 
   <br><br>
-  <a href="https://www.linkedin.com/in/williamsanzvivanco/">Linkedin</a> 
-  
+    <div class="social-links mt-3 text-center">
+          <a href="https://www.linkedin.com/in/williamsanzvivanco/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+    </div>
+ #  <a href="https://www.linkedin.com/in/williamsanzvivanco/">Linkedin</a> 
 theme: jekyll-theme-minimal
 google_analytics: UA-168755932-1# your Google Analytics tracking ID here
