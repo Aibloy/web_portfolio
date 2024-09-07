@@ -40,26 +40,27 @@
 
 <div style="display: flex; overflow-x: auto; padding: 10px; box-sizing: border-box;">
   <!-- Tarjeta Certificado Microsoft 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 220px; height: 200px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 180px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
     <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Certificado Microsoft 1" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <a href="https://example.com/certificado1" style="text-decoration: none; color: #000; font-size: 16px; line-height: 1.4; display: block; margin-bottom: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Microsoft Certified: Power BI Data Analyst Associate</a>
-    <a href="https://example.com/certificado1" style="text-decoration: none; color: #0078d4; font-size: 14px;">Link</a>
+    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power BI Data Analyst Associate</p>
+    <a href="https://example.com/certificado1" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Link</a>
   </div>
 
   <!-- Tarjeta Certificado Microsoft 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 220px; height: 200px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 180px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
     <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Certificado Microsoft 2" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <a href="https://example.com/certificado2" style="text-decoration: none; color: #000; font-size: 16px; line-height: 1.4; display: block; margin-bottom: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Microsoft Certified: Power BI Data Analyst Associate</a>
-    <a href="https://example.com/certificado2" style="text-decoration: none; color: #0078d4; font-size: 14px;">Link</a>
+    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power BI Data Analyst Associate</p>
+    <a href="https://example.com/certificado2" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Link</a>
   </div>
 
   <!-- Tarjeta Certificado Microsoft 3 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 220px; height: 200px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 180px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
     <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Certificado Microsoft 3" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <a href="https://example.com/certificado3" style="text-decoration: none; color: #000; font-size: 16px; line-height: 1.4; display: block; margin-bottom: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Microsoft Certified: Power BI Data Analyst Associate</a>
-    <a href="https://example.com/certificado3" style="text-decoration: none; color: #0078d4; font-size: 14px;">Link</a>
+    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power BI Data Analyst Associate</p>
+    <a href="https://example.com/certificado3" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">Link</a>
   </div>
 </div>
+
 
  
 ---
