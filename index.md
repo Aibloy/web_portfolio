@@ -81,7 +81,7 @@
 <h3>Experience working with</h3>
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 5px; box-sizing: border-box; width: 700px; margin: auto;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 5px; box-sizing: border-box; width: 750px; margin: auto;">
   <!-- Tarjeta Santander -->
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://companiesmarketcap.com/img/company-logos/256/SAN.png" alt="Santander Logo" style="width: 100px; height: auto;">
