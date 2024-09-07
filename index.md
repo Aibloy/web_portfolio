@@ -17,6 +17,8 @@
 - **Librerias:** Pandas, NumPy, re, Scikit-Learn, Matplotlib, Seaborn, Altair, Tensorflow, Keras, Spacy, nltk...
 - **Idiomas:** Español, Inglés
 
+---
+
 <h3>What Skill I Have</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -29,7 +31,7 @@
   <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
 </div>
 
-
+---
  
 <h3>Experience working with</h3>
 
@@ -60,24 +62,8 @@
   </div>
 </div>
 
-
-
-
-
  
 ---
-
-# Título en Markdown
-
-Este es un párrafo en **Markdown**.
-
-<div style="background-color: lightblue; padding: 10px;">
-  Este es un párrafo dentro de un contenedor HTML con un fondo azul claro.
-</div>
-
-- Este es un listado en Markdown.
-
-<p style="color: red;">Este es un párrafo en HTML con texto rojo.</p>
 
 
 ###                        Portfolio
