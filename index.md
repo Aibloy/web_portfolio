@@ -18,6 +18,19 @@
 - **Idiomas:** Español, Inglés
 
 ---
+Test
+# Título en Markdown
+
+Este es un párrafo en **Markdown**.
+
+<div style="background-color: lightblue; padding: 10px;">
+  Este es un párrafo dentro de un contenedor HTML con un fondo azul claro.
+</div>
+
+- Este es un listado en Markdown.
+
+<p style="color: red;">Este es un párrafo en HTML con texto rojo.</p>
+
 
 ###                        Portfolio
 
