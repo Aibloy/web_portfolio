@@ -17,6 +17,19 @@
 - **Librerias:** Pandas, NumPy, re, Scikit-Learn, Matplotlib, Seaborn, Altair, Tensorflow, Keras, Spacy, nltk...
 - **Idiomas:** Español, Inglés
 
+<h3>What Skill I Have</h3>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power BI</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power Apps</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power Automate</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Dataverse</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SharePoint</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">IA Builder</span>
+  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
+</div>
+
+
 ---
 Test
 # Título en Markdown
