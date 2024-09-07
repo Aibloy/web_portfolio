@@ -31,31 +31,32 @@
 
 <h3>What Skill I Have</h3>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; overflow-x: auto; padding: 10px; box-sizing: border-box;">
   <!-- Tarjeta 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://img.icons8.com/cotton/32/000000/computer-support.png" alt="UI/UX Icon" style="width: 32px; height: 32px;">
     <p style="font-size: 14px; margin-top: 5px;">UI/UX</p>
   </div>
 
   <!-- Tarjeta 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://img.icons8.com/cotton/32/000000/code.png" alt="Web Design Icon" style="width: 32px; height: 32px;">
     <p style="font-size: 14px; margin-top: 5px;">Web Design</p>
   </div>
 
   <!-- Tarjeta 3 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://img.icons8.com/cotton/32/000000/mobile.png" alt="App Design Icon" style="width: 32px; height: 32px;">
     <p style="font-size: 14px; margin-top: 5px;">App Design</p>
   </div>
 
   <!-- Tarjeta 4 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://img.icons8.com/cotton/32/000000/paint-palette.png" alt="Graphic Design Icon" style="width: 32px; height: 32px;">
     <p style="font-size: 14px; margin-top: 5px;">Graphic Design</p>
   </div>
 </div>
+
 
 
 
