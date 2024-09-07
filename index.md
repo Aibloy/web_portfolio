@@ -29,8 +29,11 @@
   <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
 </div>
 
+
+ 
 <h3>Experience working with</h3>
 
+ 
 <div style="display: flex; overflow-x: auto; padding: 10px; box-sizing: border-box;">
   <!-- Tarjeta Santander -->
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
