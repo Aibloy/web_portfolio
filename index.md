@@ -30,7 +30,8 @@
   <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">IA Builder</span>
   <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
 </div>
-
+ <h3></h3>
+ 
 ---
  
 <h3>Experience working with</h3>
