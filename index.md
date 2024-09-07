@@ -38,26 +38,35 @@
 
 <h3>My Microsoft Certifications</h3>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 10px; box-sizing: border-box;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 5px; padding: 10px; box-sizing: border-box;">
   <!-- Tarjeta Certificado Microsoft 1 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Certificado Microsoft 1" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power BI Data Analyst Associate</p>
-    <a href="https://example.com/certificado1" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px;">Link</a>
+  <div style="border: 1px solid #ddd; border-radius: 8px; height: 150px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://images.credly.com/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" alt="Certificado Microsoft 1" style="width: 120px; height: auto; margin-bottom: 0px;">
+    <p style="font-size: 14px; margin: 0; padding: 0; line-height: 1.2; height: 60px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
+      <strong>Microsoft Certified:</strong><br>
+      Power BI Data Analyst Associate
+    </p>
+    <a href="https://example.com/certificado1" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 0px;">Link</a>
   </div>
 
   <!-- Tarjeta Certificado Microsoft 2 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://images.credly.com/images/72eb3ccc-c40c-4e41-84b1-689e58af16f9/power-platform-solutions-architect-expert-600x600.png" alt="Certificado Microsoft 2" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power Platform Solutions Architect</p>
-    <a href="https://example.com/certificado2" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px;">Link</a>
+  <div style="border: 1px solid #ddd; border-radius: 8px; height: 150px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://images.credly.com/images/72eb3ccc-c40c-4e41-84b1-689e58af16f9/power-platform-solutions-architect-expert-600x600.png" alt="Certificado Microsoft 2" style="width: 120px; height: auto; margin-bottom: 0px;">
+    <p style="font-size: 14px; margin: 0; padding: 0; line-height: 1.2; height: 60px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
+      <strong>Microsoft Certified:</strong><br>
+      Power Platform Solutions Architect
+    </p>
+    <a href="https://example.com/certificado2" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 0px;">Link</a>
   </div>
 
   <!-- Tarjeta Certificado Microsoft 3 -->
-  <div style="border: 1px solid #ddd; border-radius: 8px; height: 250px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <img src="https://images.credly.com/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png" alt="Certificado Microsoft 3" style="width: 120px; height: auto; margin-bottom: 10px;">
-    <p style="font-size: 14px; margin: 0; padding: 0; height: 60px; line-height: 1.2; overflow: hidden; text-overflow: ellipsis; white-space: normal;">Microsoft Certified: Power Platform Functional Consultant</p>
-    <a href="https://example.com/certificado3" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 10px;">Link</a>
+  <div style="border: 1px solid #ddd; border-radius: 8px; height: 150px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <img src="https://images.credly.com/images/243ab956-2af5-4abd-8b91-27bc580f17ae/power-platform-functional-consultant-600x600__1_.png" alt="Certificado Microsoft 3" style="width: 120px; height: auto; margin-bottom: 0px;">
+    <p style="font-size: 14px; margin: 0; padding: 0; line-height: 1.2; height: 60px; overflow: hidden; text-overflow: ellipsis; white-space: normal;">
+      <strong>Microsoft Certified:</strong><br>
+      Power Platform Functional Consultant
+    </p>
+    <a href="https://example.com/certificado3" style="text-decoration: none; color: #0078d4; font-size: 12px; display: block; margin-top: 0px;">Link</a>
   </div>
 </div>
 
