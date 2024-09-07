@@ -26,6 +26,8 @@
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power Apps</span>
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power Automate</span>
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Dataverse</span>
+    <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power Platform</span>
+    <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Azure</span>
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">SharePoint</span>
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">IA Builder</span>
   <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">SQL</span>
