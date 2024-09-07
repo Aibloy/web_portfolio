@@ -22,13 +22,14 @@
 <h3>What Skill I Have</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power BI</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power Apps</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Power Automate</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">Dataverse</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SharePoint</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">IA Builder</span>
-  <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power BI</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power Apps</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Power Automate</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Dataverse</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">SharePoint</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">IA Builder</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">SQL</span>
+  <span style="background-color: #EDEDED; padding: 5px 25px; border-radius: 20px;">Python</span>
 </div>
  <h3></h3>
 
@@ -79,8 +80,8 @@
  
 <h3>Experience working with</h3>
 
- 
-<div style="display: flex; overflow-x: auto; padding: 10px; box-sizing: border-box;">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; padding: 5px; box-sizing: border-box; width: 700px; margin: auto;">
   <!-- Tarjeta Santander -->
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://companiesmarketcap.com/img/company-logos/256/SAN.png" alt="Santander Logo" style="width: 100px; height: auto;">
@@ -99,12 +100,75 @@
     <p></p>
   </div>
 
+  <!-- Tarjeta Iberdrola -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6ab5010e949df2892e9819736f38f510" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div>
+  
+  
+  
+  <!-- Tarjeta Firmenich -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1397190742/9e2750648162dee388b0da5cdcd3bbd5.jpg" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div>
+
+  <!-- Tarjeta Paradores Turismo -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/cpcicqe5wlcucmpqzguy" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div>
+  
+  
+  
+  <!-- Tarjeta Nokia -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-nokia-2-226428.png" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+  
+  
+  <!-- Tarjeta Telefonica -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://companiesmarketcap.com/img/company-logos/256/TEF.png" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+  
+  
+  <!-- Tarjeta Tubacex -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/bloflrnuugoyy2slrp3v" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+  
+  
+  <!-- Tarjeta Ecoembes -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/aa6f0cefee45016349d86e118341b360" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+  
+  
+  <!-- Tarjeta GB Foods -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1502197301/svtz8i5tdzxauuvzhkhy.png" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+  
+  <!-- Tarjeta Testa -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/wgaqrkvoslhfg9sjw3xs" alt="Iberdrola Logo" style="width: 100px; height: auto;">
+    <p></p>
+  </div> 
+
   <!-- Tarjeta NEOM -->
   <div style="border: 1px solid #ddd; border-radius: 8px; width: 150px; height: 100px; padding: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/en/5/55/Neom_City_Logo.svg" alt="NEOM Logo" style="width: 100px; height: auto;">
     <p></p>
   </div>
 </div>
+
 
  
 ---
