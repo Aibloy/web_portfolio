@@ -29,6 +29,39 @@
   <span style="background-color: #EDEDED; padding: 5px 15px; border-radius: 20px;">SQL</span>
 </div>
 
+
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <!-- Tarjeta 1 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 200px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+    <img src="https://img.icons8.com/cotton/64/000000/computer-support.png" alt="UI/UX Icon" style="width: 64px; height: 64px;">
+    <h3>UI/UX</h3>
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
+  </div>
+
+  <!-- Tarjeta 2 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 200px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+    <img src="https://img.icons8.com/cotton/64/000000/code.png" alt="Web Design Icon" style="width: 64px; height: 64px;">
+    <h3>Web Design</h3>
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
+  </div>
+
+  <!-- Tarjeta 3 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 200px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+    <img src="https://img.icons8.com/cotton/64/000000/mobile.png" alt="App Design Icon" style="width: 64px; height: 64px;">
+    <h3>App Design</h3>
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
+  </div>
+
+  <!-- Tarjeta 4 -->
+  <div style="border: 1px solid #ddd; border-radius: 8px; width: 200px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); margin: 10px;">
+    <img src="https://img.icons8.com/cotton/64/000000/paint-palette.png" alt="Graphic Design Icon" style="width: 64px; height: 64px;">
+    <h3>Graphic Design</h3>
+    <p>Lorem ipsum dolor sit amet consectetur.</p>
+  </div>
+</div>
+
+
  
 ---
 
